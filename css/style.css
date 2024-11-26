@@ -1,0 +1,35 @@
+body{
+    background-image: url("../bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.cont{
+    width: 70%;
+    margin: auto;
+    padding-top: 60%;
+    transform: translateY(-60%);
+}
+
+
+h1 {
+    font-family: "Bokor", system-ui;
+    font-weight: 400;
+    font-style: normal;;
+    font-size: 76px;
+    /* margin-top: 60px; */
+    color: antiquewhite;
+    
+}
+p{
+    font-size: 35px;
+    color: rgb(254, 154, 242);
+}
+h3{
+    color: rgb(141, 233, 244);
+}
+h5{
+color: rgb(21, 21, 22);
+}
